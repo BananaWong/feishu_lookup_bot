@@ -1,0 +1,17 @@
+{
+  "name": "feishu-schedule-bot",
+  "version": "1.0.0",
+  "description": "飞书档期查询 AI 助手 — 自然语言驱动的广告执行排期查询机器人",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node src/test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["feishu", "lark", "bot", "schedule", "bitable"],
+  "license": "UNLICENSED",
+  "private": true
+}
